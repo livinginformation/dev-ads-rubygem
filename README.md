@@ -1,4 +1,4 @@
-dev-ads-rubygem (placeholder until a better name is found)
+dev-ads-rubygem (placeholder name)
 ===============
 
 Accept Bitcoin from users to remove ads.
